@@ -6,10 +6,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeep1060" alt="rajdeep1060" /></a> </p>
 <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">
 - 🌱 I’m currently learning **React.Js**
-
-- 👨‍💻 All of my projects are available at [https://rajdeeps.netlify.app/](https://rajdeeps.netlify.app/)
-
-- 💬 Ask me about **Express.Js,C++,Html,Css,Js**
+ 
+-🚀My recent react Project:- https://optima-ten.vercel.app/
+ 
+- 💬 Ask me about **Express.Js,MySQL,C++,Html,Css,Js**
 
 - 📫 How to reach me **rajdeepsinghsethi215@gmail.com**
 
