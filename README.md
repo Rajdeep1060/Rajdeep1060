@@ -7,8 +7,6 @@
 <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">
 - 🌱 I’m currently learning **React.Js**
  
--🚀My recent react Project:- https://optima-ten.vercel.app/
- 
 - 💬 Ask me about **Express.Js,MySQL,C++,Html,Css,Js**
 
 - 📫 How to reach me **rajdeepsinghsethi215@gmail.com**
