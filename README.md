@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeep1060" alt="rajdeep1060" /></a> </p>
 <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">
-- 🌱 I’m currently learning **React.Js**
+- 🌱 I’m currently learning **React.Js and Spring Boot**
  
-- 💬 Ask me about **React.Js,Express.Js,MySQL,C++,Html,Css,Js**
+- 💬 Ask me about **React.Js,Spring Boot,Express.Js,MySQL,C++,Html,Css,Js**
 
 - 📫 How to reach me **rajdeepsinghsethi215@gmail.com**
 
-- ⚡ Fun fact **In JavaScript, NaN is not equal to anything, not even to itself!**
+- ⚡ Fun fact **the only common thing between Java and JavaScript is the word "Java", much like in Car and Carpet,!**
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
