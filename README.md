@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajdeep</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="middle">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep1060&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep1060" /> </p>
 
@@ -7,7 +7,7 @@
 <p style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">
 - 🌱 I’m currently learning **React.Js**
  
-- 💬 Ask me about **Express.Js,MySQL,C++,Html,Css,Js**
+- 💬 Ask me about **React.Js,Express.Js,MySQL,C++,Html,Css,Js**
 
 - 📫 How to reach me **rajdeepsinghsethi215@gmail.com**
 
