@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rajdeepsinghsethi215@gmail.com**
 
-- ⚡ Fun fact **the only common thing between Java and JavaScript is the word "Java", much like in Car and Carpet,!**
+- ⚡ Fun fact **the only common thing between Java and JavaScript is the word "Java", much like in Car and Carpet.**
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
